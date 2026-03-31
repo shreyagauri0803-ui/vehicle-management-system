@@ -15,10 +15,5 @@ A Python console application for managing vehicle records with search and statis
 - Bike
 - Truck
 
-## How to Run
-```bash
-python vehicle_managment_record.py
-```
-
 ## Tools Used
 - Python, Dictionaries, Lists, Functions, Input Validation
